@@ -1,10 +1,10 @@
-Olá, este é um projeto de estudo como fixação de conteúdo 
-de Programação Orientada a Objetos do BootCamp: #DecolaTechAvanade2021,
+OlÃ¡, este Ã© um projeto de estudo como fixaÃ§Ã£o de conteÃºdo 
+de ProgramaÃ§Ã£o Orientada a Objetos do BootCamp: #DecolaTechAvanade2021,
 em parceria com a Digital Innovation One. 
 
-Fiz algumas alterações conforme o meu nível de conhecimento em POO|.Net|C#:
-*Acrescentei novos atributos a classe Series (atores, e classificação); 
-*Acrescentei o método Clear.Clear(), em algumas telas, para que ficasse mais empático ao usuário;
-*Design na tela inicial;
+Fiz algumas alteraÃ§Ãµes conforme o meu nÃ­vel de conhecimento em POO|.Net|C#:
+*Acrescentei novos atributos a classe Series (atores, e classificaÃ§Ã£o); 
+*Acrescentei o mÃ©todo Clear.Clear(), em algumas telas, para que ficasse mais empÃ¡tico ao usuÃ¡rio;
+*Melhorei o Design na tela inicial;
 
-Espero que vocês gostem, das minhas modificações. 
+Espero que vocÃªs gostem, das minhas modificaÃ§Ãµes. 
